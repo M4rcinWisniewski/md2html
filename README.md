@@ -3,7 +3,7 @@
 
 Simple CLI program to convert markdown files to HTML buit in rust.
 
-
+<img width="320px" src="https://www.rustacean.net/assets/rustacean-flat-happy.svg">
 
 ## Features
 
