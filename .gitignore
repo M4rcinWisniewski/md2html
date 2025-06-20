@@ -1,0 +1,17 @@
+# Rust build output
+/target/
+
+# Cargo-generated lock files (optional to ignore, but usually kept)
+/Cargo.lock
+
+# If using IDEs/editors, ignore their config files:
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# If you use logs or temp files
+*.log
+*.tmp
